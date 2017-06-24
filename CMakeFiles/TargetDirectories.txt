@@ -1,0 +1,7 @@
+/home/user/vershinin/lab15/CMakeFiles/install.dir
+/home/user/vershinin/lab15/CMakeFiles/list_install_components.dir
+/home/user/vershinin/lab15/CMakeFiles/rebuild_cache.dir
+/home/user/vershinin/lab15/CMakeFiles/print.dir
+/home/user/vershinin/lab15/CMakeFiles/install/local.dir
+/home/user/vershinin/lab15/CMakeFiles/install/strip.dir
+/home/user/vershinin/lab15/CMakeFiles/edit_cache.dir

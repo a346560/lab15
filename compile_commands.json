@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/user/vershinin/lab15",
+  "command": "/usr/bin/c++    -I/home/user/vershinin/lab15/include    -std=gnu++11 -o CMakeFiles/print.dir/sources/print.cpp.o -c /home/user/vershinin/lab15/sources/print.cpp",
+  "file": "/home/user/vershinin/lab15/sources/print.cpp"
+}
+]
